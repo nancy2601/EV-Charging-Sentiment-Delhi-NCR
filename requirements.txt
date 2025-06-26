@@ -1,0 +1,8 @@
+requirements
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+nltk
+vaderSentiment

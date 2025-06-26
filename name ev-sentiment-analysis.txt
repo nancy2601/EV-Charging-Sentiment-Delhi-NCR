@@ -1,0 +1,14 @@
+name: ev-sentiment-analysis
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - nltk
+  - pip
+  - pip:
+    - wordcloud
+    - vaderSentiment
